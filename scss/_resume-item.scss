@@ -9,9 +9,9 @@ section.resume-section {
     }
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 334px) {
   section.resume-section {
-    min-height: 100vh;
+    min-height: 50vh;
     .resume-item {
       .resume-date {
         min-width: 18rem;
