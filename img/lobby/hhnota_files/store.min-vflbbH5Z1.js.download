@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/redux/namespaces","modules/clean/redux/store","modules/clean/sharing/shared_folder_invite/data/reducer"],function(e,r,d,t,n){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var s;r.getSharedFolderInviteStore=function(){var e;return s||(s=t.getStoreAndRegisterReducers((e={},e[d.SHARED_FOLDER_INVITE_NAMESPACE_KEY]=n.sharedFolderInviteReducer,e))),s}});
+//# sourceMappingURL=store.min.js-vflEWXT7j.map

@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/redux/namespaces","modules/clean/redux/selectors"],function(e,r,t,n){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var o=function(e){return n.getStateAtNamespace(e,t.SHARED_FOLDER_INVITE_NAMESPACE_KEY)};r.folderInvites=function(e){return o(e).folderInvites},r.folderInvitesLoading=function(e){return o(e).folderInvitesLoading},r.folderData=function(e,r){var t=o(e);if(t.folderData&&t.folderData[r])return t.folderData[r]}});
+//# sourceMappingURL=selectors.min.js-vfltsQoOv.map
